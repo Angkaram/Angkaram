@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angkaram
-- 👀 I’m interested in Cognitive Science and Neural Networks
-- 🌱 I’m currently learning a lot... it's a long story
+- 👀 I’m interested in Artificial Intelligence and Neural Networks
+- 🌱 I’m currently working on my Computer Science degree and math minor at Sacramento State
 - 💞️ I'm not sure what I want to collaborate on yet. 
 - 📫 How to reach me: angelokaram@gmail.com
 
