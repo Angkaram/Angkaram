@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angkaram
 - 👀 I’m interested in Artificial Intelligence and Neural Networks
 - 🌱 I’m currently working on my Computer Science degree and math minor at Sacramento State
-- 💞️ I'm not sure what I want to collaborate on yet. 
+- 💞️ Looking for an internship to get real world programming skills not taught in school. 
 - 📫 How to reach me: angelokaram@gmail.com
 
 <!---
