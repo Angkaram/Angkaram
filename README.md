@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Angkaram
-- 👀 I’m interested in Neural Networks, remote sensing AI models, natural language models, and much more!
-- 🌱 I’m currently working on my Computer Science degree and Mathematics and Physics minor at Sacramento State University.
-- 💼 Looking for an internship to get real world programming skills that are not taught in school. 
-- 📫 How to reach me: angelokaram@gmail.com
+- Hi, I’m @Angkaram
+- I’m interested in Neural Networks, remote sensing AI models, natural language models, and much more!
+- I’m currently working on my Computer Science degree and Mathematics and Physics minor at Sacramento State University.
+- Looking for an internship to get real world programming skills that are not taught in school. 
+- How to reach me: angelokaram@gmail.com
 
 - Current and past projects include:
 
@@ -17,7 +17,7 @@ I focused on science communication for this project. This meant that any and all
 
 2. Creating a fully functioning website using the React library. The goal is to familiarize myself with the dynamic, complex, and relevant landscape of web design. Currently learning JavaScript and HTLM in a class setting, but will apply those skils to personal projects. I will post some of my code as soon as I get a more refined aesthetic.
 
-3. As someone who is new to Computer Science, I will continue to build on my skills and develop more exciting projects. 
+3. I will continue to build on my skills and develop more exciting projects. 
 Stay tuned! 
 
 <!---
