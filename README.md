@@ -44,6 +44,9 @@
   I will continue to build on my skills and develop more exciting projects. 
   Stay tuned! 
 
+# Recent Contributions
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angkaram&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Angkaram/Angkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
