@@ -7,7 +7,7 @@
 # Current and past projects include:
 
 # 1. 
-  A [past](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf) project I have worked on was titled "Assessing the Accuracy of Binary Star Detection Methods using Numerical Simulations of Star-Forming 
+  A past [project](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf) I have worked on was titled "Assessing the Accuracy of Binary Star Detection Methods using Numerical Simulations of Star-Forming 
   Clouds". 
   The project was done using Python and Dr. Aaron T. Lee's simulation data of star-forming clouds. The code we created allowed me to observe the 
   three-dimensional star-forming systems from a random viewing angle, creating a two-dimensional projection of the three-dimensional data. This 
