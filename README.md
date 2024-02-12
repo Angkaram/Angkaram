@@ -36,12 +36,16 @@
   The code and other information on this project can be found in my public repository [here](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project)
 
 # 3. 
+  I am currently working with a team of Software Engineers to build our client a Machine Learning model and interface that will grade his students' work by 
+  comparing it to the answer key. The input for the model will be PDFs of the students' and the output will be grades to the professor's online grade book.
+  This project is currently in progress and the first that I've worked on that uses Machine Learning.
+
+# 4. 
   Creating a fully functioning website using the React library. The goal is to familiarize myself with the dynamic, complex, and relevant 
   landscape of web design. Currently learning JavaScript and HTLM in a class setting, but will apply those skils to personal projects. I will post 
   some of my code as soon as I get a more refined aesthetic.
 
-# 4. 
-  I will continue to build on my skills and develop more exciting projects. 
+# 5.
   Stay tuned! 
 
 # Recent Contributions
