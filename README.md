@@ -37,7 +37,7 @@
 
 # 3. 
   I am currently working with a team of Software Engineers to build our client a Machine Learning model and interface that will grade his students' work by 
-  comparing it to the answer key. The input for the model will be PDFs of the students' and the output will be grades to the professor's online grade book.
+  comparing it to the answer key. The input for the model will be PDFs of the students' work and the output will be grades posted to the professor's online grade book.
   This project is currently in progress and the first that I've worked on that uses Machine Learning.
 
 # 4. 
