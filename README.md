@@ -1,7 +1,7 @@
 - Hello, I’m @Angkaram
-- I’m interested in Neural Networks, remote sensing AI models, natural language models, and much more!
+- I’m interested in remote-sensing AI models, natural language models, Hardware-Software projects and much more!
 - I’m currently working on my Computer Science degree, along with minors in Mathematics and Physics at Sacramento State University.
-- Looking for an internship to get real-world programming skills that are not taught in school. 
+- Looking for internships to get real-world programming skills that are not taught in school. 
 - How to reach me: angelokaram@gmail.com
 
 # Current and past projects include:
