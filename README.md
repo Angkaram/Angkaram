@@ -26,16 +26,13 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
     to copyrighted contents. 
 
 # 2. 
-  A pharmaceutical study web application (frontend and backend) I created alongside a group of software engineers at Sacramento State University. I 
-  was officially the leader of this project, so I had to ensure all members contributed quality code in a timely manner, while also providing them 
-  with my time if they had questions. Another team member (Rahul Gupta) also helped lead the group when I was unavailable or needed assistance. 
-  The project began with a real client (Vendia) asking us for very specific goals, use cases, and non-functional requirements. The main goal was 
-  as follows: To build a proof of concept distributed information system with suitable user interfaces that could be used by the FDA, 
+  A React JS web application with a [Vendia](https://www.vendia.com) backend. This project was created to enable a pharmaceutical study. Scrum methodology used with me as the team lead and [Rahul Gupta](https://github.com/rahulio96) as co-leader. 
+  The client's (Vendia) goal was for us to build a proof of concept distributed information system with suitable user interfaces that could be used by the FDA, 
   pharmaceutical companies, and participating health care providers to exchange study data as it is produced (i.e., in near real time) in a 
-  secure, trusted (i.e., auditable), and controlled (i.e., minimally permissive) manner. We will build our information system on top of the Vendia 
-  Share platform, which supports data exchange through an immutable, cryptographically verifiable, distributed ledger and provides the primitives 
+  secure, trusted (i.e., auditable), and controlled (i.e., minimally permissive) manner. Using the Vendia 
+  Share platform, we had support for data exchange through an immutable, cryptographically verifiable, distributed ledger that provides the primitives 
   to control data flow (e.g., redaction). 
-  The code and other information on this project can be found in my public repository [here](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project)
+  *The code and other information on this project can be found in my public repository [here](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project)*
 
 # 3. 
   I am currently working with a team of Software Engineers to build our client a Machine Learning model and interface that will grade their students' work by 
