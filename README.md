@@ -20,7 +20,9 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
   There was an emphasis on science communication for this project. This meant that any and all aspects of the project had to be easily understandable by a 
   non-scientific audience. A demonstration of this clear communication can be found in a poster I created with Dr. Aaron Lee, my mentor for the 
   internship. 
-  - This poster can be found in this repository, with the title "Astrophysics Research Poster" [(here)](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf). The code for this project is set to private since
+  - This poster can be found in this repository, with the title "Astrophysics Research Poster" [(here)](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf). 
+
+**The code for this project is set to private since
     the star-forming cloud simulation data is copyrighted. 
 
 # 2. 
