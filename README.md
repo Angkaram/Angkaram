@@ -32,12 +32,11 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
   secure, trusted (i.e., auditable), and controlled (i.e., minimally permissive) manner. Using the Vendia 
   Share platform, we had support for data exchange through an immutable, cryptographically verifiable, distributed ledger that provides the primitives 
   to control data flow (e.g., redaction). 
+  
   *The code and other information on this project can be found in my public repository [here](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project)*
 
 # 3. 
-  I am currently working with a team of Software Engineers to build our client a Machine Learning model and interface that will grade their students' work by 
-  comparing it to the answer key. The input for the model will be PDFs of the students' work and the output will be grades posted to the client's online grade book.
-  This project is currently in progress and an acts as a solid introduction to Machine Learning.
+  I am currently working with a team of Software Engineers to build our client a ML model and UI that will grade students' homework/tests using Computer Vision and NLP. This project is currently in progress but the repo can be found [here](https://github.com/Very-Bad-Goose/Senior-Project).
 
 # 4.
   Stay tuned! 
