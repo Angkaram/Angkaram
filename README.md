@@ -1,5 +1,5 @@
-- Hello, I’m @Angkaram
-- I’m interested in remote-sensing AI models, natural language models, Hardware-Software projects and much more!
+- Hello, I’m Angelo Karam.
+- I’m interested in embedded systems, computer vision, natural language processing,  and much more!
 - I’m currently working on my Computer Science degree, along with minors in Mathematics and Physics at Sacramento State University.
 - Looking for internships to get real-world programming skills that are not taught in school. 
 - How to reach me: angelokaram@gmail.com
@@ -7,24 +7,24 @@
 # Current and past projects include:
 
 # 1. 
-  A past [project](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf) I have worked on was titled "Assessing the Accuracy of Binary Star Detection Methods using Numerical Simulations of Star-Forming 
+  A past research [project](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf) I have worked on was titled "Assessing the Accuracy of Binary Star Detection Methods using Numerical Simulations of Star-Forming 
   Clouds". 
-  The project was done using Python and Dr. Aaron T. Lee's simulation data of star-forming clouds. The code we created allowed me to observe the 
-  three-dimensional star-forming systems from a random viewing angle, creating a two-dimensional projection of the three-dimensional data. This 
-  included sophisticated mathematical functions that were hand written into the Python program. We then looked at:
-  - True binary star systems are determined based on physics—their mutual gravitational interactions keep them bound to one another. The
-    simulation data provides me enough information to calculate this.
+  The project entailed a series of programs created using Python and Dr. Aaron T. Lee's simulation data of star-forming clouds. These programs enabled the user to observe 
+  3D star-forming systems (natal microcosm) from a random viewing angle, creating a 2D projection of the 3D data. These programs
+  included sophisticated mathematical functions that were hand written into the Python program. We then used the programs and observed/noted that:
+  - True binary star systems are determined based on physics — their mutual gravitational interactions keep them bound to one another. The
+    simulation data provided me enough information to calculate this.
   - Perceived binaries systems are determined by finding the “smallest” apparent separation between stars in my projections.
-  - Finally I ask: Do the labels agree? Are the perceived binaries the actual binaries?
+Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my programs) the actual binaries (those flagged as true binaries from the simulation data)? This question was ultimately answered with some statistical analysis of the generated data compared with the input simulation data. 
 
-  I focused on science communication for this project. This meant that any and all aspects of the project had to be easily understandable by a 
+  There was an emphasis on science communication for this project. This meant that any and all aspects of the project had to be easily understandable by a 
   non-scientific audience. A demonstration of this clear communication can be found in a poster I created with Dr. Aaron Lee, my mentor for the 
   internship. 
   - This poster can be found in this repository, with the title "Astrophysics Research Poster" [(here)](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf). The code for this project is set to private since
     the star-forming cloud simulation data is copyrighted. 
 
 # 2. 
-  A more recent project I have worked on is a pharmaceutical study web application I created alongside my peers at Sacramento State University. I 
+  A pharmaceutical study web application (frontend and backend) I created alongside a group of software engineers at Sacramento State University. I 
   was officially the leader of this project, so I had to ensure all members contributed quality code in a timely manner, while also providing them 
   with my time if they had questions. Another team member (Rahul Gupta) also helped lead the group when I was unavailable or needed assistance. 
   The project began with a real client (Vendia) asking us for very specific goals, use cases, and non-functional requirements. The main goal was 
@@ -36,16 +36,11 @@
   The code and other information on this project can be found in my public repository [here](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project)
 
 # 3. 
-  I am currently working with a team of Software Engineers to build our client a Machine Learning model and interface that will grade his students' work by 
-  comparing it to the answer key. The input for the model will be PDFs of the students' work and the output will be grades posted to the professor's online grade book.
-  This project is currently in progress and the first that I've worked on that uses Machine Learning.
+  I am currently working with a team of Software Engineers to build our client a Machine Learning model and interface that will grade their students' work by 
+  comparing it to the answer key. The input for the model will be PDFs of the students' work and the output will be grades posted to the client's online grade book.
+  This project is currently in progress and an acts as a solid introduction to Machine Learning.
 
-# 4. 
-  Creating a fully functioning website using the React library. The goal is to familiarize myself with the dynamic, complex, and relevant 
-  landscape of web design. Currently learning JavaScript and HTLM in a class setting, but will apply those skils to personal projects. I will post 
-  some of my code as soon as I get a more refined aesthetic.
-
-# 5.
+# 4.
   Stay tuned! 
 
 # Recent Contributions
