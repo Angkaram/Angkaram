@@ -22,8 +22,8 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
   internship. 
   - This poster can be found in this repository, with the title "Astrophysics Research Poster" [(here)](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf). 
 
-**The code for this project is set to private since
-    the star-forming cloud simulation data is copyrighted. 
+**The code for this project is set to private due
+    to copyrighted contents. 
 
 # 2. 
   A pharmaceutical study web application (frontend and backend) I created alongside a group of software engineers at Sacramento State University. I 
