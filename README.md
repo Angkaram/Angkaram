@@ -41,9 +41,6 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
 # 4. Game Engine Project
   Lightweight Java Game Library (lwjgl), OpenGL, JS, unique shaders, textures, OOP principles (SOLIDS), IO interrupts, etc were used to create a game similar to minesweeper. [(Repo Link)](https://github.com/Angkaram/OpenGL-Java-Project)
 
-# Recent Contributions
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angkaram&count_private=true)](https://github.com/anuraghazra/github-readme-stats&hide_rank)
-
 <!---
 Angkaram/Angkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
