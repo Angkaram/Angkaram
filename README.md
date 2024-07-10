@@ -6,7 +6,7 @@
 
 # Current and past projects include:
 
-# 1. 
+# 1. Astrophysics Research Project
   A past research [project](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf) I have worked on was titled "Assessing the Accuracy of Binary Star Detection Methods using Numerical Simulations of Star-Forming 
   Clouds". 
   The project entailed a series of programs created using Python and Dr. Aaron T. Lee's simulation data of star-forming clouds. These programs enabled the user to observe 
@@ -23,9 +23,9 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
   - This poster can be found in this repository, with the title "Astrophysics Research Poster" [(here)](https://github.com/Angkaram/Angkaram/blob/main/Astrophysics_Research_Poster.pdf). 
 
 **The code for this project is set to private due
-    to copyrighted contents. 
+    to copyrighted contents. A draft for publishing to a scientific journal has been produced. Publishing has not occurred. 
 
-# 2. 
+# 2. Pharmaceutical Study Web Application
   A React JS web application with a [Vendia](https://www.vendia.com) backend. This project was created to enable a pharmaceutical study. Scrum methodology used with me as the team lead and [Rahul Gupta](https://github.com/rahulio96) as co-leader. 
   The client's (Vendia) goal was for us to build a proof of concept distributed information system with suitable user interfaces that could be used by the FDA, 
   pharmaceutical companies, and participating health care providers to exchange study data as it is produced (i.e., in near real time) in a 
@@ -35,11 +35,11 @@ Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my
   
   *The code and other information on this project can be found in my public repository [here](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project)*
 
-# 3. 
+# 3. Computer Vision Project (TechTutor)
   I am currently working with a team of Software Engineers to build our client a ML model and UI that will grade students' homework/tests using Computer Vision and NLP. This project is currently in progress but the repo can be found [here](https://github.com/Very-Bad-Goose/Senior-Project).
 
-# 4.
-  Stay tuned! 
+# 4. Game Engine Project
+  Lightweight Java Game Library (lwjgl), OpenGL, JS, unique shaders, textures, OOP principles (SOLIDS), IO interrupts, etc were used to create a game similar to minesweeper. [(Repo Link)](https://github.com/Angkaram/OpenGL-Java-Project)
 
 # Recent Contributions
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angkaram&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
