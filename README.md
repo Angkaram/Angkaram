@@ -1,7 +1,7 @@
 - Hello, I’m Angelo Karam.
-- I’m interested in embedded systems, computer vision, natural language processing,  and much more!
-- I’m currently working on my Computer Science degree, along with minors in Mathematics and Physics at Sacramento State University.
-- Looking for internships to get real-world programming skills that are not taught in school. 
+- I’m interested in embedded systems, automation, computer vision, natural language processing, and much more!
+- I’m currently finishing acquiring my Computer Science degree, along with minors in Mathematics and Physics at Sacramento State University.
+- Looking for a job that challenges me and allows me to enhance the team workflows.  
 - How to reach me: angelokaram@gmail.com
 
 # Current and past projects include:
