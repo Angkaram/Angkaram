@@ -14,7 +14,7 @@
   included sophisticated mathematical functions that were hand written into the Python program. We then used the programs and observed/noted that:
   - True binary star systems are determined based on physics — their mutual gravitational interactions keep them bound to one another. The
     simulation data provided me enough information to calculate this.
-  - Perceived binaries systems are determined by finding the “smallest” apparent separation between stars in my projections.
+  - Perceived binary systems are determined by finding the “smallest” apparent separation between stars in my projections.
 Lastly, I asked: Are the perceived binaries (the stars labeled as binaries by my programs) the actual binaries (those flagged as true binaries from the simulation data)? This question was ultimately answered with some statistical analysis of the generated data compared with the input simulation data. 
 
   There was an emphasis on science communication for this project. This meant that any and all aspects of the project had to be easily understandable by a 
