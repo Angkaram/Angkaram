@@ -32,11 +32,11 @@ This [project](https://github.com/Angkaram/Boltzmann-Machine-for-Disease-Suscept
 ## 3. Computer Vision PyTorch ML Project:
 I am currently working with a team of Software Engineers to build our client a ML model and simple UI that will grade students' homework/tests using Computer Vision and NLP. 
 This [project](https://github.com/Very-Bad-Goose/Senior-Project) will save the client many hours each week in manual grading, which will allow them to focus more on curriculum and lecture planning. 
-This project is currently in progress, but we project that a minimum of 10 hours a week of the clients’ time will be saved as a result of our well-trained model. 
+This project is currently in progress. We project that a minimum of 10 hours a week of the clients’ time will be saved as a result of our well-trained model. 
 
 ## 4. CPU Architecture Project:
 This [project](https://github.com/Angkaram/CPU-Project) involved using the Logisim software to create a fully-functional CPU with working RAM, accumulator, TTY, register files, ALU, etc. All modules and wiring were done by hand.
-The aim of the project was to grasp the fundamentals of computer hardware and architecture.
+The aim of the project was to grasp the fundamentals of computer hardware design and architecture.
 
 ## 5. Pharmaceutical Study Web App Project:
 A secure React web application to our client (Vendia). 
